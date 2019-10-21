@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EchoServer",
+            "request": "launch",
+            "mainClass": "EchoServer",
+            "projectName": "simplechat1_b7e6b621"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClientConsole",
+            "request": "launch",
+            "mainClass": "ClientConsole",
+            "projectName": "simplechat1_b7e6b621"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClientConsole",
+            "request": "launch",
+            "mainClass": "ClientConsole",
+            "projectName": "simplechat1_50bda074"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EchoServer",
+            "request": "launch",
+            "mainClass": "EchoServer",
+            "projectName": "simplechat1_50bda074"
+        }
+    ]
+}
